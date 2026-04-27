@@ -1,37 +1,41 @@
-📊 Loan Analytics Dashboard
-This project presents a comprehensive Loan Report Dashboard designed to analyze loan distribution, applicant income, and borrower characteristics. It transforms raw financial data into meaningful insights through clear and interactive visualizations.
+ 📊 Loan Analysis Dashboard
+ Overview
+This project presents an interactive Loan Analysis Dashboard developed in Microsoft Excel to analyze loan distribution, applicant income, and key demographic factors.
+The dashboard provides clear visual insights into how loans are distributed across gender, education level, employment status, and property areas. It is designed to support better decision-making in loan approvals, risk assessment, and financial planning.
 
-🚀 Project Overview
-The dashboard provides a high-level summary of key loan metrics, including:
-*Total Loan Amount: $47K
-*Total Applicant Income: $1.65M
-*Property Area Coverage: 3 categories
+ 🎯 Objectives
+- Analyze total loan amount distribution
+- Evaluate applicant income trends
+- Understand demographic influence (gender, education, employment)
+- Compare loan allocation across property areas
+- Enable interactive filtering for deeper analysis
 
-It enables users to explore how different factors influence loan allocation and applicant profiles.
+ 📈 Key Features
+- KPI Metrics
+  - Total Loan Amount
+  - Total Applicant Income
+  - Count of Property Areas
 
-📈 Key Insights & Features
-*Loan Distribution by Gender:
-Analyze how loan amounts vary across male, female, and undisclosed applicants.
-*Education Impact:
-Compare loan allocation between graduates and non-graduates.
-*Applicant Income by Property Area
-  Visual breakdown of income across:
-  Urban
-  Semiurban
-  Rural
-*Self-Employment Analysis
-Understand how employment status affects loan amounts.
-*Interactive Filters
-Gender selection
-Marital status
-Loan ID filtering
+- Visual Insights
+  - Loan Amount by Gender (Bar Chart)
+  - Loan Amount by Education (Bar Chart)
+  - Applicant Income by Property Area (Pie Chart)
+  - Loan Amount by Self-Employment Status (Column Chart)
 
-🛠️ Tools & Technologies
-Power BI
-Data Visualization Techniques
-Data Cleaning & Transformation
+- Interactive Filters
+  - Gender (Male, Female, Undisclosed)
+  - Marital Status
+  - Loan ID selection
 
+ 🛠️ Tools & Technologies
+- Microsoft Excel
+  - Pivot Tables
+  - Pivot Charts
+  - Slicers
+  - Data Cleaning & Transformation
+
+📂 Project Structure
 This dashboard helps:
-Financial analysts identify loan distribution trends
-Institutions understand borrower profiles
-Stakeholders make data-driven lending decisions
+*Financial analysts identify loan distribution trends
+*Institutions understand borrower profiles
+*Stakeholders make data-driven lending decisions

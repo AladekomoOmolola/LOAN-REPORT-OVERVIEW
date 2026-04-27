@@ -36,6 +36,9 @@ The dashboard provides clear visual insights into how loans are distributed acro
 
 📂 Project Structure
 This dashboard helps:
+
 *Financial analysts identify loan distribution trends
+
 *Institutions understand borrower profiles
+
 *Stakeholders make data-driven lending decisions
